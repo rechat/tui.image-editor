@@ -87,6 +87,7 @@
     "doc": "tuidoc",
     "tslint": "tslint index.d.ts"
   },
+  "typings": "index.d.ts",
   "dependencies": {
     "core-js-pure": "^3.6.4",
     "fabric": "4.2.0",
